@@ -223,7 +223,7 @@ My focus is not just writing code, but understanding:
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ansh-sahu-tech&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.vercel.app/?user=ansh-sahu-tech&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak Stats" />
 </p>
 
 ---
@@ -231,7 +231,7 @@ My focus is not just writing code, but understanding:
 # 📈 Contribution Graph & Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ansh-sahu-tech&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph" />
+  <img src="https://ghchart.rshah.org/7aa2f7/ansh-sahu-tech" width="100%" alt="Ansh Sahu's GitHub Contribution Chart" />
 </p>
 
 ### 🐍 Animated Contribution Grid Snake
@@ -249,7 +249,7 @@ My focus is not just writing code, but understanding:
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ansh-sahu-tech&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-trophies.devomb.com/?username=ansh-sahu-tech&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
