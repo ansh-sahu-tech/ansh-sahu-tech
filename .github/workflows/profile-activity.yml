@@ -1,0 +1,34 @@
+name: Update Recent Activity
+
+on:
+  schedule:
+    # Runs every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+concurrency:
+  group: activity-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    name: Sync Recent Activity
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Update Recent GitHub Activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          GH_USERNAME: ansh-sahu-tech
+          COMMIT_MSG: "chore: update recent GitHub activity [skip ci]"
+          MAX_LINES: 5
