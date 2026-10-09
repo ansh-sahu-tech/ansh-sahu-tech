@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Ansh Sahu
 
-### Frontend Developer •  AI Engineer • Data Analyst • CSE (AI & ML)
+### Frontend Developer • AI Engineer • Data Analyst • CSE (AI & ML)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Frontend%20Developer-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Frontend Developer" />
